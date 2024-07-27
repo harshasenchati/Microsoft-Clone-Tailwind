@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/harshasenchati/Amazon-Clone/blob/main/amazon-clone.gif">
+  <img src="https://github.com/harshasenchati/Microsoft-Tailwind/blob/main/microsoft-record.gif">
 </div>
 
 ---
