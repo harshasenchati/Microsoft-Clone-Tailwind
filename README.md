@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💻 Microsoft Tailwind Clone 💻</h1>
-  <p>Welcome to the Microsoft Tailwind Clone project! This project replicates the look and feel of Microsoft's Responsive  homepage using Tailwind CSS.</p>
+  <p>Welcome to the Microsoft Tailwind Clone project! This project replicates the look and feel of Microsoft's responsive homepage using Tailwind CSS.</p>
 </div>
 
 ---
@@ -35,8 +35,9 @@ The Microsoft Tailwind Clone project is a frontend clone of the Microsoft websit
 
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30" height="30"> HTML
 - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30" height="30"> CSS
-- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="30" height="30"> Tailwind CSS
+- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="30" height="30"> Tailwind CSS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript
+
 
 ## Setup
 
@@ -45,4 +46,3 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/harshasenchati/Microsoft-Tailwind.git
-
