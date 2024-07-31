@@ -39,6 +39,7 @@ The Microsoft Tailwind Clone project is a frontend clone of the Microsoft websit
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript
 
 
+
 ## Setup
 
 To run this project locally, follow these steps:
@@ -46,3 +47,21 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/harshasenchati/Microsoft-Tailwind.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd Microsoft-Tailwind
+   ```
+3. **Install the dependencies**:
+  ```bash
+npm install
+```
+4. **Run the development server**:
+  ```bash
+npm start
+```
+## Usage
+After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with Microsoft-Tailwind application.
+
+## License
+This project is licensed under the MIT License.
