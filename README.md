@@ -60,8 +60,9 @@ npm install
   ```bash
 npm start
 ```
+This will start the development server and typically open the application in your default browser. If it doesn’t, you can manually navigate to http://localhost:3000 in your browser.
 ## Usage
-After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with Microsoft-Tailwind application.
+After following the setup steps, open your browser and navigate to http://localhost:3000 to view and interact with the Microsoft-Tailwind application.
 
 ## License
 This project is licensed under the MIT License.
